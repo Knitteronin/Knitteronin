@@ -1,14 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meegu80&label=Profile%20views&color=0e75b6&style=flat" alt="meegu80" /> </p>
 
-<h1 align="left">String name = "Kim_Youngha";</h1> 
+<h1 align="left">String name = knitter + ronin;</h1> 
 <h1 align="left">System.out.println("aka KnitterRonin");</h1> 
 <h3 align="left">I am busy.<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2></h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-- 🔭 I’m currently working on ** 국비지원 in 안산 when 2024.04~08 **
-
 - 🌱 I’m currently learning **JAVA,ORACLE(SQL),HTML+CSS+JS,JSP(JSTL),SpringLegacy(MyBatis), SpringBoot(JPA)**
-
-- 📫 How to reach me **aceman80@naver.com**
+- 📫 How to reach me **knitterronin@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
